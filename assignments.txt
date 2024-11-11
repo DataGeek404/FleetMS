@@ -1,0 +1,7 @@
+Vehicle 1 assigned to Driver 1
+Driver 2 assigned to Vehicle 2
+Vehicle 3 assigned to Driver 3
+Driver 4 assigned to Vehicle 4
+Vehicle 5 assigned to Driver 5
+Driver 6 assigned to Vehicle 6
+Vehicle 3 assigned to Driver 1

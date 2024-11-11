@@ -1,0 +1,8 @@
+Trip 1: Distance = 100 km
+Trip 2: Distance = 120 km
+Trip 3: Distance = 80 km
+Trip 4: Distance = 150 km
+Trip 5: Distance = 200 km
+Trip 6: Distance = 75 km
+Trip 1: Distance = 100 km
+Trip 4: Distance = 100 km
